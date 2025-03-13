@@ -6,7 +6,7 @@ A **simple and intuitive** currency converter built using **React.js** that allo
 
 
 ## 🚀 **Live Demo**  
-🔗 [Currency Converter](https://your-live-demo-link.com) 
+🔗 [Currency Converter]([https://your-live-demo-link.com](https://currency-converter-nine-brown-78.vercel.app/)) 
 
 ---
 
